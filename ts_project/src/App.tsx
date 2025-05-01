@@ -22,7 +22,7 @@ function App() {
           count is {count}
         </button>
         <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
+          Edit <code>src/App.tsx</code> and save 
         </p>
       </div>
       <p className="read-the-docs">
@@ -45,3 +45,4 @@ const Greeting: React.FC<Props> = function({username}):React.JSX.Element{
   )
 }
 export default App
+
